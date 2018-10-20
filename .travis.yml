@@ -6,6 +6,7 @@ node_js:
 cache:
   directories:
     - "node_modules"
+script: echo "npm test temporarily disabled"    
 deploy:
   provider: npm
   email: "mehmetbaran@mehmetbaran.net"
